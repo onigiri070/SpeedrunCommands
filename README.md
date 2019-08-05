@@ -31,7 +31,6 @@
 Whenever the mode is changed, it is written to Phantombot's local database meaning the bot will "remember" which mode is active, regardless of whether the bot is shut off or restarted.
 
 ### Contact  
-[Twitter](https://twitter.com/rpgpilgrim)  
 [Twitch.tv](https://twitch.tv/rpgpilgrim)  
 [rpgPilgrim#3359](https://discordapp.com/) on Discord  
 unrealcroissant @ [irc.speedrunslive.com](http://www.speedrunslive.com/channel/)
