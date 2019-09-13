@@ -1,6 +1,7 @@
 (function() {
     // Read current state from database
     var state = $.getIniDbString('states', 'currentState', 'undefined');
+    
     $.bind('command', function(event) {
 		var command = event.getCommand(),
 			args = event.getArgs(),
