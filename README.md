@@ -29,10 +29,3 @@
 `!goal` - PhantomBot returns stored goal information for the current mode.  
 
 Whenever the mode is changed, it is written to Phantombot's local database meaning the bot will "remember" which mode is active, regardless of whether the bot is shut off or restarted.
-
-### Contact  
-[Twitter](https://twitter.com/rpgpilgrim)  
-[Twitch.tv](https://twitch.tv/rpgpilgrim)  
-[PhantomBot Community Forum](https://community.phantom.bot/u/unrealcroissant)  
-[rpgPilgrim#3359](https://discordapp.com/) on Discord  
-rpgPilgrim @ [irc.speedrunslive.com](http://www.speedrunslive.com/channel/)
